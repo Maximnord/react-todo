@@ -80,7 +80,7 @@ const Todolist = () => {
                             <button 
                                 className='delete'
                                 onClick={() => deleteItem(item.id)}
-                            >Ha-Xyu</button>
+                            >X</button>
                     </div>
 
                 </Draggable>
