@@ -1,6 +1,6 @@
 # Druggable todo list application
 
-Just insert your Togo-Item and drud as you wish
+Just create your Togo-Item, press Submit and drud as you wish
 
 # Getting Started with Create React App
 
