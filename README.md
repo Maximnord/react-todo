@@ -1,3 +1,7 @@
+# Druggable todo list application
+
+Just insert your Togo-Item and drud as you wish
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
